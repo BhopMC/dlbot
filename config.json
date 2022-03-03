@@ -1,0 +1,13 @@
+{
+
+    "settings": {
+        "token": "your token here.",
+        "prefix": "!"
+    },
+
+    "links": {
+        "koid": "https://google.com",
+        "void": "https://facebook.com"
+    }
+
+}
